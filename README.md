@@ -16,13 +16,13 @@ Either run
 
 ```
 composer global require "fxp/composer-asset-plugin:^1.2.0"
-composer require yiisoft/yii2
+composer require lobtao/yii2
 ```
 
 or add
 
 ```json
-"yiisoft/yii2": "~2.0.0",
+"lobtao/yii2": "~2.0.0",
 ```
 
 to the require section of your composer.json.
