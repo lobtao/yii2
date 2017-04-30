@@ -66,8 +66,7 @@
         "php": ">=5.4.0",
         "ext-mbstring": "*",
         "ext-ctype": "*",
-        "lib-pcre": "*",
-        "ezyang/htmlpurifier": "~4.6"
+        "lib-pcre": "*"
     },
     "autoload": {
         "psr-4": {"yii\\": ""}
